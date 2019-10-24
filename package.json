@@ -1,0 +1,16 @@
+{
+  "name": "dockerprojekt",
+  "version": "1.0.0",
+  "description": "docker demo",
+  "author": "Martin Liebmann Pedersen <mart73p5@edu.easj.dk>",
+  "license": "Zealand",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
